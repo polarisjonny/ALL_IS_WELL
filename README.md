@@ -40,10 +40,12 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 
 ## 📚 기능
-1. 로그인
-
+1. 로그인, 마이페이지
+   로그인, 아이디 찾기, 비밀번호 찾기가 가능한 페이지입니다.
+   <br>
 <p float="left">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/8553a1fb-0ec7-4d0b-9693-c531a5ec57d5" width="500" height="250">
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/8553a1fb-0ec7-4d0b-9693-c531a5ec57d5" width="400" height="250">
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/03f87584-d7a9-4b72-9d4b-5064b541a757" width="400" height="250"> 
 </p>   
 
 
@@ -51,6 +53,7 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 <br>
 2. 의료 기능(처방, 진료, 입원, 수술)
+   - 수술과 입원은 수술실에서 등록 가능합니다.
 <p float="left">
   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dcaf0871-fd29-4021-b766-9d0d7b767dfe" width="400" height="250"/>
   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/45f65a6d-8f7d-4ebc-b5b2-90f8e3f6f60c" width="400" height="250"/> 
@@ -80,6 +83,7 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 
 5. 결재
+   결재문서는 휴가신청서, 재고신청서, 출장신청서로 구성되어 있습니다.
 <p float="left">
    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/5952e93d-0a16-4a37-9574-655463be1970" width="400" height="250"/>
    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dfd5c448-bf7f-4740-8a41-d30c1cb35b62" width="400" height="250"/>
@@ -98,8 +102,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
 
 7. 채팅
 <p float="left">
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/af18f08c-72f6-433c-84e2-3e571a685c61" width="400" height="400"/>
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/2af55960-ab46-45d1-95d6-38754a21fd41" width="400" height="400"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/af18f08c-72f6-433c-84e2-3e571a685c61" width="400" height="500"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/2af55960-ab46-45d1-95d6-38754a21fd41" width="400" height="500"/>
 </p>
 <br>
 <br>
