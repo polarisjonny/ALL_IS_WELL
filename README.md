@@ -46,8 +46,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
    <br>
    <br>
 <p float="left">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/8553a1fb-0ec7-4d0b-9693-c531a5ec57d5" width="400" height="250">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/03f87584-d7a9-4b72-9d4b-5064b541a757" width="400" height="250"> 
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/8553a1fb-0ec7-4d0b-9693-c531a5ec57d5" width="400" height="220">
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/03f87584-d7a9-4b72-9d4b-5064b541a757" width="400" height="220"> 
 </p>   
 
 
@@ -60,10 +60,10 @@ ALL IS WELL은 병원 그룹웨어입니다.
    <br>
    <br>
 <p float="left">
-  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dcaf0871-fd29-4021-b766-9d0d7b767dfe" width="400" height="250"/>
-  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/45f65a6d-8f7d-4ebc-b5b2-90f8e3f6f60c" width="400" height="250"/> 
-  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/f9323e50-492e-4440-b9b7-10b935bf4252" width="400" height="250" />
-  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/206427e3-0b64-4585-b726-7ce97a45c965" width="400" height="250"/>
+  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dcaf0871-fd29-4021-b766-9d0d7b767dfe" width="400" height="220"/>
+  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/45f65a6d-8f7d-4ebc-b5b2-90f8e3f6f60c" width="400" height="220"/> 
+  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/f9323e50-492e-4440-b9b7-10b935bf4252" width="400" height="220" />
+  <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/206427e3-0b64-4585-b726-7ce97a45c965" width="400" height="220"/>
 </p>
 
 <br>
@@ -72,10 +72,10 @@ ALL IS WELL은 병원 그룹웨어입니다.
    <br>
    <br>
 <p float="left">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/7621c0d3-4ef1-4689-b6ac-2ce2b6519c90" width="400" height="250" />
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/1031b3b7-8e4b-4a70-8ad2-3bb229a910d5" width="400" height="250" />
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/1bd299bf-5864-4ba5-9b49-82ffce67286a" width="400" height="250"/>
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/f41cfbf2-1d2c-4af0-b32e-1a39b46347c0" width="400" height="250"/>
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/7621c0d3-4ef1-4689-b6ac-2ce2b6519c90" width="400" height="220" />
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/1031b3b7-8e4b-4a70-8ad2-3bb229a910d5" width="400" height="220" />
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/1bd299bf-5864-4ba5-9b49-82ffce67286a" width="400" height="220"/>
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/f41cfbf2-1d2c-4af0-b32e-1a39b46347c0" width="400" height="220"/>
    
 </p>
 <br>
@@ -84,8 +84,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 <br>
 <p float="left">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/e4ec005c-0e24-4af0-a7c7-9dbd640c5eae" width="400" height="250" />
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/b9d79c9a-bcf7-48ed-a315-7df83b954ead" width="400" height="250"/>
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/e4ec005c-0e24-4af0-a7c7-9dbd640c5eae" width="400" height="220" />
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/b9d79c9a-bcf7-48ed-a315-7df83b954ead" width="400" height="220"/>
 </p>
 
 <br>
@@ -97,8 +97,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
    <br>
    <br>
 <p float="left">
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/5952e93d-0a16-4a37-9574-655463be1970" width="400" height="250"/>
-   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dfd5c448-bf7f-4740-8a41-d30c1cb35b62" width="400" height="250"/>
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/5952e93d-0a16-4a37-9574-655463be1970" width="400" height="220"/>
+   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dfd5c448-bf7f-4740-8a41-d30c1cb35b62" width="400" height="220"/>
 </p>   
 
 <br>
@@ -108,8 +108,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
    <br>
    <br>
 <p float="left">
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/2531b78e-f23f-46f4-9e2d-d760d2e57fbf" width="400" height="250"/>
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/84d0ad14-1ad6-48a4-ad2e-11754ac7616a" width="400" height="250"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/2531b78e-f23f-46f4-9e2d-d760d2e57fbf" width="400" height="220"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/84d0ad14-1ad6-48a4-ad2e-11754ac7616a" width="400" height="220"/>
 </p>
 <br>
 <br>
@@ -128,10 +128,10 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 <br>
 <p float="left">
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/ff6480a9-0de4-4974-acf5-a0c98dfc328d" width="400" height="250"/>
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/b122f217-4ac3-4b10-bc32-a3d0abb15ebf" width="400" height="250"/>
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/d783e955-db3e-401c-ab63-19a7d57d4183" width="400" height="250"/>
-    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/ab7de590-a189-4a40-9e89-3320ce7ed43c" width="400" height="250"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/ff6480a9-0de4-4974-acf5-a0c98dfc328d" width="400" height="220"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/b122f217-4ac3-4b10-bc32-a3d0abb15ebf" width="400" height="220"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/d783e955-db3e-401c-ab63-19a7d57d4183" width="400" height="220"/>
+    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/ab7de590-a189-4a40-9e89-3320ce7ed43c" width="400" height="220"/>
 </p>   
 <br>
 <br>
