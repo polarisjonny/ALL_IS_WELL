@@ -41,8 +41,9 @@ ALL IS WELL은 병원 그룹웨어입니다.
 
 ## 📚 기능
 1. 로그인, 마이페이지
-   로그인, 아이디 찾기, 비밀번호 찾기가 가능한 페이지입니다.
    <br>
+   로그인, 아이디 찾기, 비밀번호 찾기가 가능한 페이지입니다.
+   
 <p float="left">
    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/8553a1fb-0ec7-4d0b-9693-c531a5ec57d5" width="400" height="250">
    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/03f87584-d7a9-4b72-9d4b-5064b541a757" width="400" height="250"> 
