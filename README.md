@@ -53,7 +53,8 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 <br>
 2. 의료 기능(처방, 진료, 입원, 수술)
-   - 수술과 입원은 수술실에서 등록 가능합니다.
+   <br>
+   수술과 입원은 수술실에서 등록 가능합니다.
 <p float="left">
   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/dcaf0871-fd29-4021-b766-9d0d7b767dfe" width="400" height="250"/>
   <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/45f65a6d-8f7d-4ebc-b5b2-90f8e3f6f60c" width="400" height="250"/> 
@@ -83,6 +84,7 @@ ALL IS WELL은 병원 그룹웨어입니다.
 <br>
 
 5. 결재
+   <br>
    결재문서는 휴가신청서, 재고신청서, 출장신청서로 구성되어 있습니다.
 <p float="left">
    <img src="https://github.com/polarisjonny/ALL_IS_WELL/assets/116703070/5952e93d-0a16-4a37-9574-655463be1970" width="400" height="250"/>
